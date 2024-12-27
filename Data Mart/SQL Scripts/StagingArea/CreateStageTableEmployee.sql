@@ -2,17 +2,17 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Employee')
 	CREATE TABLE [dbo].[Employee]
 	(
 		[EmployeeId] [int],
-		[Name] [nvarchar](255),
-		[Title] [nvarchar](255),
+		[Name] [varchar](255),
+		[Title] [varchar](255),
 		[BirthDate] [date],
 		[HireDate] [date],
-		[Address] [nvarchar](255),
-		[City] [nvarchar](255),
+		[Address] [varchar](255),
+		[City] [varchar](255),
 		[RegionId] [int],
 		[PostalCode] [int],
-		[HomePhone] [nvarchar](255),
+		[HomePhone] [varchar](255),
 		[Extension] [int],	
-		[Obs] [nvarchar](255)
+		[Obs] [varchar](255)
 	)
 ELSE
 	TRUNCATE TABLE Employee
