@@ -14,7 +14,6 @@ BEGIN
 		PostalCode NVARCHAR(255) NULL,
 		HomePhone NVARCHAR(255) NULL,
 		Extension NVARCHAR(10) NULL,
-		NotesObs NVARCHAR(255) NULL,
 		ReportsToKey INT NULL,
 		EffectiveDate DATE NULL,
 		ExpiredDate DATE NULL,
