@@ -12,6 +12,8 @@ BEGIN
         City NVARCHAR(255) NULL,
         Region NVARCHAR(255) NULL,
         PostalCode NVARCHAR(255) NULL,
+		CompanyLocalCode NVARCHAR(25) NULL,
+		CountryCode NVARCHAR(2) NULL,
         Country NVARCHAR(255) NULL,
         Phone NVARCHAR(255) NULL,
         Fax NVARCHAR(255) NULL,

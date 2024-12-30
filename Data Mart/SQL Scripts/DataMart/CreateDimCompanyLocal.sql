@@ -18,4 +18,11 @@ BEGIN
         ) 
         ON [PRIMARY]
     ) ON [PRIMARY]
+
+	-- Inserir valores
+	INSERT INTO [dbo].[DimCompanyLocal] (LocalCode)
+	VALUES 
+		(N'USA'), 
+		(N'UK');  
+	
 END;
