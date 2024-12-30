@@ -6,7 +6,7 @@ BEGIN
         EmployeeKey INT IDENTITY(1,1) NOT NULL,
         EmployeeId INT NOT NULL,
         [Name] NVARCHAR(255) NULL,
-        Title NVARCHAR(10) NULL,
+        Title NVARCHAR(255) NULL,
         BirthDate DATE NULL,
         HireDate DATE NULL,
         [Address] NVARCHAR(255) NULL,
