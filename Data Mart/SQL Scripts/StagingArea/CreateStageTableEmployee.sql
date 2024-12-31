@@ -12,7 +12,6 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Employee')
 		[PostalCode] [nvarchar](10),
 		[HomePhone] [nvarchar](24),
 		[Extension] [nvarchar](4),	
-		[Obs] [nvarchar](MAX),
 		[ReportsTo] [int]
 	)
 ELSE
