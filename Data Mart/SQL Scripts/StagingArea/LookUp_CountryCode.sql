@@ -14,7 +14,6 @@ BEGIN
     INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'PH', N'Philippines')
     INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'SI', N'Slovenia')
     INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'SZ', N'Swaziland')
-    INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'UI', N'Unknown')
     INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'VU', N'Vanuatu')
     INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'KH', N'Cambodia')
     INSERT [dbo].[CountryCode_Lookup] ([CountryCode], [CountryName]) VALUES (N'CR', N'Costa Rica')

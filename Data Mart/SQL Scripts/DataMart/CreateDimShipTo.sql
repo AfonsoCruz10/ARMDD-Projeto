@@ -4,12 +4,15 @@ IF NOT EXISTS (SELECT name
 BEGIN
     CREATE TABLE [dbo].[DimShipTo] (
         ShipToKey INT IDENTITY(1,1) NOT NULL,
+		ShipToId INT NOT NULL,
         ShipToName NVARCHAR(255) NULL,
         ShipToAddress NVARCHAR(255) NULL,
         ShipCity NVARCHAR(255) NULL,
         ShipRegion NVARCHAR(255) NULL,
         ShipPostalCode NVARCHAR(255) NULL,
-        ShipCountryCode NVARCHAR(255) NULL,
+		ShipCountry NVARCHAR(255) NULL,
+        ShipCountryCode NCHAR(2) NULL,
+		CompanyLocalCode NVARCHAR(25) NULL,
         EffectiveDate DATE NULL,
         ExpiredDate DATE NULL,
         IsCurrent INT NULL,
