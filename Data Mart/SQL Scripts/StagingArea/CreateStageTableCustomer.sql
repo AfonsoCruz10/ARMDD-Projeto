@@ -11,7 +11,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Customer')
 		[PostalCode] [nvarchar](255),
 		[Country] [nvarchar](255),
 		[Phone] [nvarchar](255),
-		[Fax] [nvarchar](255)
+		[Fax] [nvarchar](24)
 	)
 ELSE
 	TRUNCATE TABLE Customer
