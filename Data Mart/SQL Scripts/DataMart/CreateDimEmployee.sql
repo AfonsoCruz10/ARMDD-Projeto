@@ -4,7 +4,8 @@ IF NOT EXISTS (SELECT name
 BEGIN
     CREATE TABLE [dbo].[DimEmployee] (
         EmployeeKey INT IDENTITY(1,1) NOT NULL,
-        EmployeeId INT NOT NULL,
+        EmployeeIdUK INT NULL,
+		EmployeeIdUSA INT NULL,
         [Name] NVARCHAR(255) NULL,
         Title NVARCHAR(255) NULL,
         BirthDate DATE NULL,
@@ -12,7 +13,6 @@ BEGIN
         [Address] NVARCHAR(255) NULL,
         CityName NVARCHAR(255) NULL,
         RegionDescription NVARCHAR(255) NULL,
-        CompanyLocalCode NVARCHAR(25) NULL,
         PostalCode NVARCHAR(255) NULL,
         HomePhone NVARCHAR(255) NULL,
         Extension NVARCHAR(10) NULL,
