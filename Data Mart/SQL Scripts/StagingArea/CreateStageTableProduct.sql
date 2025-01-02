@@ -5,7 +5,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Product')
 		[ProductName] [nvarchar](255),
 		[SupplierId] [int],
 		[CategoryId] [int],
-		[QuantityPerUnit] [nvarchar](255),
+		[QuantityPerUnit] [nchar](20),
 		[UnitPrice] [float],
 		[UnitsInStock] [int],
 		[UnitsOnOrder] [int],

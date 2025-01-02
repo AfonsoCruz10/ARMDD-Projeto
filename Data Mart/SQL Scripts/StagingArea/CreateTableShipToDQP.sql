@@ -4,14 +4,10 @@ IF NOT EXISTS (SELECT name
 
     CREATE TABLE [dbo].[ShipToDQP] (
 		ShipToId INT NULL,
-        ShipToName NVARCHAR(255) NULL,
-        ShipToAddress NVARCHAR(255) NULL,
-        ShipCity NVARCHAR(255) NULL,
-        ShipRegion NVARCHAR(255) NULL,
-        ShipPostalCode NVARCHAR(255) NULL,
+        ShipCityId INT NULL,
+        ShipRegionId INT NULL,
 		ShipCountry NVARCHAR(255) NULL,
         ShipCountryCode NCHAR(2) NULL,
-		CompanyLocalCode NVARCHAR(25) NULL,
 		DQP NVARCHAR(100)
 		)
 ELSE 
