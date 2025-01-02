@@ -3,7 +3,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Customer')
 	(
 		[CustomerId] [nvarchar](255),
 		[CompanyName] [nvarchar](255),
-		[ContactName] [nvarchar](255),
+		[ContactName] [nvarchar](30),
 		[ContactTitle] [nvarchar](255),
 		[Address] [nvarchar](255),
 		[City] [nvarchar](255),
@@ -15,3 +15,4 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Customer')
 	)
 ELSE
 	TRUNCATE TABLE Customer
+
