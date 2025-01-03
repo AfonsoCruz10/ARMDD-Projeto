@@ -4,8 +4,8 @@ IF NOT EXISTS (SELECT name
 BEGIN
     CREATE TABLE [dbo].[DimShipTo] (
         ShipToKey INT IDENTITY(1,1) NOT NULL,
-		ShipToIdUSA INT NULL,
-		ShipToIdUK INT NULL,
+		ShipToIdUSA INT NOT NULL,
+		ShipToIdUK INT NOT NULL,
         ShipToName NVARCHAR(255) NULL,
         ShipToAddress NVARCHAR(255) NULL,
         ShipCity NVARCHAR(255) NULL,

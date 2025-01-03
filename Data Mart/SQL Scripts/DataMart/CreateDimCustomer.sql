@@ -4,8 +4,8 @@ IF NOT EXISTS (SELECT name
 BEGIN
     CREATE TABLE [dbo].[DimCustomer] (
         CustomerKey INT IDENTITY(1,1) NOT NULL,
-		CustomerIdUK INT NULL,
-        CustomerIdUSA NVARCHAR(255) NULL,
+		CustomerIdUK INT NOT NULL,
+        CustomerIdUSA NVARCHAR(255) NOT NULL,
         CompanyName NVARCHAR(255) NULL,
         ContactName NVARCHAR(30) NULL,
         Title NVARCHAR(30) NULL,
