@@ -8,8 +8,6 @@ BEGIN
         [ShippedDate] [int] NOT NULL,
         [ProductKey] [int] NOT NULL,
         [CustomerKey] [int] NOT NULL,
-        [ItemKey] [int] NOT NULL,
-        [StoreKey] [int] NOT NULL,
         [EmployeeKey] [int] NOT NULL,
         [ShipperKey] [int] NOT NULL,
         [ShipToKey] [int] NOT NULL,
