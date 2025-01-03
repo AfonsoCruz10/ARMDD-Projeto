@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">AFONSO</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXxbDW6aNuUiI1iGOtSct6gAAAAACAAAAAAAQZgAAAAEAACAAAABBtpIUTTMHNs9M6aeVNHi/w20c/nqG2QyJA+B1pA7jbwAAAAAOgAAAAAIAACAAAAASY3F9sY1Be0tSxGrHYceva4Zv1LDWH4Go/r3tZPhTKJAAAABMplqhLlBDJGyNwZzMs2KcKdaLogb9G7ZKCP6z0oQ4UeVq32KNUmQ1rK/NGU9QpCzYPjbNTXSfQriExdujMdFYnA6djtxjsmBIaxcmCfAxqLK/nJOuWO8uZRzA6AZLvbgqKOMmitIcca34bsQoXhz7U+R9qoHulZDJPDhiPO2adI/nSbazuL0XF6fPevIZ22NAAAAArNiRnVNFqblTrCuKR76xRbuiuvi3I7+l9b4p4XS1srvBbIQdk7mmPj+0vAtPH6aS19sercVDk+Nj3Q7C5hgceQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcuLLMku4/EiFjq1T/mZ5XwAAAAACAAAAAAAQZgAAAAEAACAAAABnYVetoCdsaPO/tlV9NL8aBxjl0YXwWB0d168MLaVTZwAAAAAOgAAAAAIAACAAAADtxAA27XZl4mRYC5Z32kvjRiUNpajvW5T01JkW7y8NdZAAAACrdwPjdkRS4UsYSCO/ZkjH0uERKpvmogV09C6WAg1VRjTf3BilecNpA9DR4DE7+rexI43uSsYQL07fmqmrLwDmh6PPzGQmUrnCl8jTEZcZti1SrBzNU7B7B0NZQACQJJk7cC2kYDC0+bCHkF47+1rgIjE24rxrt9ENt+n8+Gql0AjEKJDZVaXskpgskjV8/95AAAAA4KjtDVOE6K7m8eg09krdwT4f/y0DMGmySR7qN84kDdcBdg6EF9Ae47l7yUzWxGuGLFJs0htzI/6S4xiOsQ4e0A==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">403</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">408</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{F3494D92-5893-462F-A1C3-2E9D3452A093}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{9183B750-C4BB-4559-B3C3-174FE02B85A0}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -78,7 +78,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Categories.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Categories.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -151,7 +151,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Categories.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Categories.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -225,7 +225,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Customers.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Customers.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -298,7 +298,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Customers.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Customers.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -460,7 +460,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\DimDate.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\DimDate.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -533,7 +533,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\DimDate.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\DimDate.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -577,7 +577,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Employees.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Employees.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -650,7 +650,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Employees.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Employees.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1033,7 +1033,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\OrderDetails.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\OrderDetails.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1106,7 +1106,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\OrderDetails.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\OrderDetails.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1150,7 +1150,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Orders.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Orders.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1223,7 +1223,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Orders.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Orders.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1267,7 +1267,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Products.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Products.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1340,7 +1340,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Products.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Products.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1384,7 +1384,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Region.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Region.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1457,7 +1457,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Region.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Region.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1501,7 +1501,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Shippers.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Shippers.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1574,7 +1574,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Shippers.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Shippers.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1618,7 +1618,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Suppliers.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Suppliers.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1691,7 +1691,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\andre\OneDrive\Documents\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Suppliers.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\afons\Desktop\uni\ARMDD\ARMDD-Projeto\Data Mart\Dados\OperationalDB_USA\Suppliers.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>

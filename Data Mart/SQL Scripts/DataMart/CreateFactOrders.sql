@@ -3,9 +3,9 @@ IF NOT EXISTS (SELECT name
                WHERE name = 'FactOrders')
 BEGIN
     CREATE TABLE [dbo].[FactOrders] (
-        [OrderDate] [int] NOT NULL,
-        [RequiredDate] [int] NOT NULL,
-        [ShippedDate] [int] NOT NULL,
+        [OrderDateKey] [int] NOT NULL,
+        [RequiredDateKey] [int] NOT NULL,
+        [ShippedDateKey] [int] NULL,
         [ProductKey] [int] NOT NULL,
         [CustomerKey] [int] NOT NULL,
         [EmployeeKey] [int] NOT NULL,
@@ -15,27 +15,24 @@ BEGIN
         [CurrencyKey] [int] NOT NULL,
         [CompanyLocalKey] [int] NOT NULL,
         [OrderID] [int] NOT NULL,
-        [UniPriceUK] [DECIMAL](18, 2) NOT NULL, 
-        [UniPriceUSA] [DECIMAL](18, 2) NOT NULL,
+        [UniPriceUK] [DECIMAL](18, 2) NULL, 
+        [UniPriceUSA] [DECIMAL](18, 2) NULL,
         [Quantity] [int] NOT NULL,
-        [TotalLineUK] [DECIMAL](18, 2) NOT NULL,
-        [TotalLineUSA] [DECIMAL](18, 2) NOT NULL,
-        [DiscountCostUK] [DECIMAL](18, 2) NOT NULL,
-        [DiscountCostUSA] [DECIMAL](18, 2) NOT NULL,
-        [FreightUK] [DECIMAL](18, 2) NOT NULL,
-        [FreightUSA] [DECIMAL](18, 2) NOT NULL,
+        [TotalLineUK] [DECIMAL](18, 2) NULL,
+        [TotalLineUSA] [DECIMAL](18, 2) NULL,
+        [DiscountCostUK] [DECIMAL](18, 2) NULL,
+        [DiscountCostUSA] [DECIMAL](18, 2) NULL,
+        [FreightUK] [DECIMAL](18, 2) NULL,
+        [FreightUSA] [DECIMAL](18, 2) NULL,
         CONSTRAINT [PK_FactOrders] PRIMARY KEY CLUSTERED 
         (
-            [OrderDate] ASC,
-            [RequiredDate] ASC,
-            [ShippedDate] ASC,
+            [OrderDateKey] ASC,
+            [RequiredDateKey] ASC,
             [ProductKey] ASC,
             [CustomerKey] ASC,
             [EmployeeKey] ASC,
             [ShipperKey] ASC,
             [ShipToKey] ASC,
-            [SupplierKey] ASC,
-            [CurrencyKey] ASC,
             [CompanyLocalKey] ASC
         )
         WITH (
