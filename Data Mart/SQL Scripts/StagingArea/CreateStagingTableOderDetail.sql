@@ -5,7 +5,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'OrderDetail')
 		[ProductId] [int],
 		[UnitPrice] [int],
 		[Quantity] [int],
-		[Discount] [int]
+		[Discount] [Float]
 	)
 ELSE
 	TRUNCATE TABLE OrderDetail
