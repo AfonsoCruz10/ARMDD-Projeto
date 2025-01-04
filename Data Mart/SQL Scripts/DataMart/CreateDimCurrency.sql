@@ -23,6 +23,6 @@ BEGIN
 	-- Inserir valores para Libra e Dólar
 	INSERT INTO [dbo].[DimCurrency] (CurrencyCode, CurrencyName)
 	VALUES 
-		(N'GBP', N'Libra'), -- Libra
-		(N'USD', N'Dolar');   -- Dólar
+		(N'USD', N'Dolar'), -- Dólar
+		(N'GBP', N'Libra'); -- Libra
 END;

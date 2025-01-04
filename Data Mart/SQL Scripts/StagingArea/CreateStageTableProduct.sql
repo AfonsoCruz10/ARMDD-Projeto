@@ -6,7 +6,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Product')
 		[SupplierId] [int],
 		[CategoryId] [int],
 		[QuantityPerUnit] [nchar](20),
-		[UnitPrice] [float],
+		[UnitPrice] [money],
 		[UnitsInStock] [int],
 		[UnitsOnOrder] [int],
 		[ReorderLevel] [int],

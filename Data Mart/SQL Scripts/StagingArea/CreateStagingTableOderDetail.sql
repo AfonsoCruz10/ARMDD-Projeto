@@ -3,7 +3,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'OrderDetail')
 	(
 		[OrderId] [int],
 		[ProductId] [int],
-		[UnitPrice] [int],
+		[UnitPrice] [money],
 		[Quantity] [int],
 		[Discount] [Float]
 	)
