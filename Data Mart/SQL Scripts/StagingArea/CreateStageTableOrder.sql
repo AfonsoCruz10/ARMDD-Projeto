@@ -8,7 +8,7 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'Order')
 		[RequiredDate] [date],
 		[ShippedDate] [date],
 		[ShipperId] [int],
-		[Freight] [float],
+		[Freight] [Money],
 		[ShipName] [nvarchar](255),
 		[ShipAddress] [nvarchar](255),
 		[ShipCity] [nvarchar](255),

@@ -10,5 +10,4 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'CustomerDQP')
 		[Country] [nvarchar](255),
 		[DQP] [nvarchar](100)
 	)
-ELSE
-	TRUNCATE TABLE CustomerDQP
+ELSE TRUNCATE TABLE [dbo].[CustomerDQP]

@@ -1,7 +1,4 @@
-IF NOT EXISTS (SELECT name 
-               FROM sys.tables 
-               WHERE name = 'SupplierDQP')
-BEGIN
+IF NOT EXISTS (SELECT name FROM sys.tables WHERE name = 'SupplierDQP')
     CREATE TABLE [dbo].[SupplierDQP] (
         SupplierId INT NOT NULL,
         ContactTitle NVARCHAR(255) NULL,
@@ -11,4 +8,4 @@ BEGIN
         Country NVARCHAR(255) NULL,
         DQP NVARCHAR(100)
     ) 
-END;
+ELSE TRUNCATE TABLE [dbo].[SupplierDQP]

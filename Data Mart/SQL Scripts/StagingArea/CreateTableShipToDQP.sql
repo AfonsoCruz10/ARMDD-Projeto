@@ -1,7 +1,4 @@
-IF NOT EXISTS (SELECT name 
-               FROM sys.tables 
-               WHERE name = 'ShipToDQP' AND schema_id = SCHEMA_ID('dbo'))
-
+IF NOT EXISTS (SELECT name FROM sys.tables WHERE name = 'ShipToDQP' )
     CREATE TABLE [dbo].[ShipToDQP] (
 		ShipToId INT NULL,
         ShipCityId INT NULL,

@@ -7,5 +7,4 @@ IF NOT EXISTS(SELECT name FROM sys.tables WHERE name = 'ProductDQP')
 		[QuantityPerUnitId] [int],
 		[DQP] [nvarchar](100)
 	)
-ELSE
-	TRUNCATE TABLE ProductDQP
+ELSE TRUNCATE TABLE [dbo].[ProductDQP]
