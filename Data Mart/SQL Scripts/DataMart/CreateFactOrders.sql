@@ -33,7 +33,7 @@ BEGIN
             [EmployeeKey] ASC,
             [ShipperKey] ASC,
             [ShipToKey] ASC,
-            [CompanyLocalKey] ASC
+			[SupplierKey] ASC
         )
         WITH (
             PAD_INDEX = OFF, 
