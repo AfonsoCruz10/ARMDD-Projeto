@@ -5,7 +5,7 @@ BEGIN
     CREATE TABLE [dbo].[DimCurrency] (
         CurrencyKey INT IDENTITY(1,1) NOT NULL,
         CurrencyCode NVARCHAR(3) NOT NULL,
-        CurrencyName NVARCHAR(255) NULL,
+        CurrencyName NVARCHAR(255) NOT NULL,
         CONSTRAINT [PK_DimCurrency] PRIMARY KEY CLUSTERED 
         (
             [CurrencyKey] ASC

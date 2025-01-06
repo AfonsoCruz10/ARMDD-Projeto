@@ -1,50 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\",
+  "WorkspaceRootPath": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Supplier.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Supplier.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Currency.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Currency.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Ship To.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Ship To.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Company Local.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Company Local.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Shipper.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
-      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Shipper.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Project Data Mart.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
       "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Project Data Mart.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Supplier.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Supplier.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Ship To.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Ship To.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Employee.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Company Local.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Company Local.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Currency.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Currency.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Shipper.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{594AC1B8-EF18-4597-88A0-4CCD87832B4D}|Create Data Mart Analysis Services\\Create Data Mart Analysis Services.dwproj|solutionrelative:Create Data Mart Analysis Services\\Dim Shipper.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,136 +54,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dim Company Local.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Company Local.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Company Local.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Company Local.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Company Local.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:30:10.589Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dim Supplier.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Supplier.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Supplier.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Supplier.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Supplier.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:30:01.875Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dim Currency.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Currency.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Currency.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Currency.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Currency.dim [Design]",
+              "Title": "Project Data Mart.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.dsv",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Project Data Mart.dsv",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.dsv [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Project Data Mart.dsv [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:29:54.454Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dim Product.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Product.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Product.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Product.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Product.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:29:41.912Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dim Date.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Date.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Date.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Date.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Date.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:29:05.374Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dim Customer.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Customer.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Customer.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Customer.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Customer.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:28:47.056Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dim Ship To.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Ship To.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Ship To.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Ship To.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Ship To.dim [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:28:37.201Z",
+              "WhenOpened": "2025-01-06T20:16:51.232Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Dim Employee.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Employee.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Employee.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Employee.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Employee.dim [Design]",
+              "Title": "Dim Company Local.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Company Local.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Company Local.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Company Local.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Company Local.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:26:54.087Z",
+              "WhenOpened": "2025-01-06T20:13:52.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Supplier.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Supplier.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Supplier.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Supplier.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Supplier.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T20:13:43.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Currency.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Currency.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Currency.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Currency.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Currency.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T20:13:37.614Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Dim Shipper.dim [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Shipper.dim",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Shipper.dim",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Shipper.dim [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Shipper.dim [Design]",
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Product.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:26:33.757Z"
+              "WhenOpened": "2025-01-06T20:13:29.749Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Project Data Mart.cube [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.cube",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Project Data Mart.cube",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.cube [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Project Data Mart.cube [Design]",
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Date.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:21:37.614Z"
+              "WhenOpened": "2025-01-06T20:13:18.605Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Customer.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T20:13:06.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Ship To.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Ship To.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Ship To.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Ship To.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Ship To.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T20:12:58.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Employee.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Employee.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Employee.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Employee.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Employee.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T20:12:48.506Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Project Data Mart.dsv [Design]",
-              "DocumentMoniker": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.dsv",
-              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Project Data Mart.dsv",
-              "ToolTip": "C:\\Users\\afons\\source\\repos\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.dsv [Design]",
-              "RelativeToolTip": "Create Data Mart Analysis Services\\Project Data Mart.dsv [Design]",
+              "Title": "Dim Shipper.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Shipper.dim",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Dim Shipper.dim",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Dim Shipper.dim [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Dim Shipper.dim [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T23:20:14.436Z"
+              "WhenOpened": "2025-01-06T20:11:54.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project Data Mart.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.cube",
+              "RelativeDocumentMoniker": "Create Data Mart Analysis Services\\Project Data Mart.cube",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Create Data Mart Analysis Services\\Create Data Mart Analysis Services\\Project Data Mart.cube [Design]",
+              "RelativeToolTip": "Create Data Mart Analysis Services\\Project Data Mart.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T20:11:50.148Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

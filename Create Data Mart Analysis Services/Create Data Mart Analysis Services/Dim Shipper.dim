@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="ba0a0465-8846-4618-83aa-d6afd48ac85c" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="68847652-59cd-45a1-82c3-0b1c6e2afef4" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Dim Shipper</ID>
   <Name>Dim Shipper</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimShipper" left="41" top="64" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3112" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimShipper" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3112" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000280c000003090000" />
             </control>
@@ -55,11 +55,11 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
-      <Value>41</Value>
+      <Value>20</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
-      <Value>64</Value>
+      <Value>0</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
@@ -68,39 +68,39 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="48097dde-a8be-4086-8381-1780341eaaa7">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="91b5fee3-7d39-4306-ba37-0f641b2a331b">
     <DataSourceViewID>Project Data Mart</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="f39488ec-acc6-4bd7-abb0-cca1f302928b">
+  <ErrorConfiguration dwd:design-time-name="cc14f240-e883-4d1a-a5f7-b50d68e657b9">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="0a97a909-6726-48fb-96ef-aef61a0d2411">
+    <Attribute dwd:design-time-name="e9eb2f16-5e1a-4243-a95b-dcc285ca0fa7">
       <ID>Shipper Key</ID>
       <Name>Shipper Key</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="436cef73-bb55-480f-abb7-3b7190b1ab8e">
+        <KeyColumn dwd:design-time-name="040d39d4-a614-4854-ab67-ec944addc415">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="7a0e2dcb-5fee-49b2-85b5-5a948e879a24">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ade01e13-383c-472a-a66c-dd3a2271ee4f">
             <TableID>dbo_DimShipper</TableID>
             <ColumnID>ShipperKey</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="f1cccaac-c66a-4a0c-872f-0cf40379d269">
+        <AttributeRelationship dwd:design-time-name="76b5fb0e-ad81-419c-9cec-720f8c3bcfd4">
           <AttributeID>Shipper Id</AttributeID>
           <Name>Shipper Id</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="facf57d6-faed-4f9c-a152-26581898c0df">
+        <AttributeRelationship dwd:design-time-name="4b7942f2-3e0b-4cda-9717-be0a1b7802fa">
           <AttributeID>Company Name</AttributeID>
           <Name>Company Name</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="56225368-df8c-469c-97c9-8e419fb4116c">
+        <AttributeRelationship dwd:design-time-name="9814e078-9e46-4014-8777-34735196348e">
           <AttributeID>Phone</AttributeID>
           <Name>Phone</Name>
         </AttributeRelationship>
@@ -109,13 +109,13 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="5040fa04-06e4-42f9-9a91-829576ceeec6">
+    <Attribute dwd:design-time-name="7b100a38-b03b-4870-869f-20d2e3012028">
       <ID>Shipper Id</ID>
       <Name>Shipper Id</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="eb9de95c-0298-4ef5-8e45-532e62515a71">
+        <KeyColumn dwd:design-time-name="12c3b64a-d2aa-4b06-907c-76b239d9e083">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="b0f06063-8719-4d13-adfa-4df4b2d4b677">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="48f01d29-96ce-4bb7-ae60-62b16e5e7c8a">
             <TableID>dbo_DimShipper</TableID>
             <ColumnID>ShipperId</ColumnID>
           </Source>
@@ -124,14 +124,14 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="e1321232-dd34-44ac-a906-cecad0e29c9c">
+    <Attribute dwd:design-time-name="71ecca00-5544-4202-94a3-e95684ef3f9a">
       <ID>Company Name</ID>
       <Name>Company Name</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="e0f4d60d-0292-4b0a-a592-4efbd5d4c3b7">
+        <KeyColumn dwd:design-time-name="4651595a-decb-4102-a370-de3688a8263a">
           <DataType>WChar</DataType>
           <DataSize>255</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="5debd6ec-f893-4be4-96a5-054f760b5115">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="614bf3d6-446f-4c5e-a557-97dcb13f639c">
             <TableID>dbo_DimShipper</TableID>
             <ColumnID>CompanyName</ColumnID>
           </Source>
@@ -140,14 +140,14 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="40c3c253-edd3-4d64-9d61-4488643e96a1">
+    <Attribute dwd:design-time-name="836915d6-8410-41ae-a849-172d0d350449">
       <ID>Phone</ID>
       <Name>Phone</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="5aa46c30-b201-45da-bd64-d7a50a928118">
+        <KeyColumn dwd:design-time-name="91a12cb2-b301-436d-9eaf-e4aa09cbd7a8">
           <DataType>WChar</DataType>
           <DataSize>255</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="28f22b47-7556-477d-8a23-5755d0edc66c">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8f7afdba-b729-4b0b-af9a-cd1c13c3342f">
             <TableID>dbo_DimShipper</TableID>
             <ColumnID>Phone</ColumnID>
           </Source>
