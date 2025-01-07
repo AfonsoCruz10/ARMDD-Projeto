@@ -20,40 +20,40 @@
   </Cubes>
   <Dimensions>
     <ProjectItem>
-      <Name>Dim Shipper.dim</Name>
-      <FullPath>Dim Shipper.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Employee.dim</Name>
-      <FullPath>Dim Employee.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Ship To.dim</Name>
-      <FullPath>Dim Ship To.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Customer.dim</Name>
-      <FullPath>Dim Customer.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Date.dim</Name>
-      <FullPath>Dim Date.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Product.dim</Name>
-      <FullPath>Dim Product.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
-      <Name>Dim Currency.dim</Name>
-      <FullPath>Dim Currency.dim</FullPath>
+      <Name>Dim Company Local.dim</Name>
+      <FullPath>Dim Company Local.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
       <Name>Dim Supplier.dim</Name>
       <FullPath>Dim Supplier.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Company Local.dim</Name>
-      <FullPath>Dim Company Local.dim</FullPath>
+      <Name>Dim Date.dim</Name>
+      <FullPath>Dim Date.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Currency.dim</Name>
+      <FullPath>Dim Currency.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Product.dim</Name>
+      <FullPath>Dim Product.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Customer.dim</Name>
+      <FullPath>Dim Customer.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Ship To.dim</Name>
+      <FullPath>Dim Ship To.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Employee.dim</Name>
+      <FullPath>Dim Employee.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Dim Shipper.dim</Name>
+      <FullPath>Dim Shipper.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

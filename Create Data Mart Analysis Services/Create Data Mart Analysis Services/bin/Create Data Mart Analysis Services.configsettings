@@ -12,31 +12,31 @@
     </DataSources>
     <Dimensions>
       <Dimension>
-        <ID>Dim Shipper</ID>
-      </Dimension>
-      <Dimension>
-        <ID>Dim Employee</ID>
-      </Dimension>
-      <Dimension>
-        <ID>Dim Ship To</ID>
-      </Dimension>
-      <Dimension>
-        <ID>Dim Customer</ID>
-      </Dimension>
-      <Dimension>
-        <ID>Dim Date</ID>
-      </Dimension>
-      <Dimension>
-        <ID>Dim Product</ID>
-      </Dimension>
-      <Dimension>
-        <ID>Dim Currency</ID>
+        <ID>Dim Company Local</ID>
       </Dimension>
       <Dimension>
         <ID>Dim Supplier</ID>
       </Dimension>
       <Dimension>
-        <ID>Dim Company Local</ID>
+        <ID>Dim Date</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Currency</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Product</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Customer</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Ship To</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Employee</ID>
+      </Dimension>
+      <Dimension>
+        <ID>Dim Shipper</ID>
       </Dimension>
     </Dimensions>
     <Cubes>
