@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{977E514F-C6BC-43BE-B53C-3D2B2856C786}|Data Mart\\Data Mart.dtproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Data Mart\\Data Mart\\ETL_Orders.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
       "RelativeMoniker": "D:0:0:{977E514F-C6BC-43BE-B53C-3D2B2856C786}|Data Mart\\Data Mart.dtproj|solutionrelative:Data Mart\\ETL_Orders.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977E514F-C6BC-43BE-B53C-3D2B2856C786}|Data Mart\\Data Mart.dtproj|C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Data Mart\\Data Mart\\Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{977E514F-C6BC-43BE-B53C-3D2B2856C786}|Data Mart\\Data Mart.dtproj|solutionrelative:Data Mart\\Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project.params [Design]",
+              "DocumentMoniker": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Data Mart\\Data Mart\\Project.params",
+              "RelativeDocumentMoniker": "Data Mart\\Project.params",
+              "ToolTip": "C:\\Users\\afons\\Desktop\\uni\\ARMDD\\ARMDD-Projeto\\Data Mart\\Data Mart\\Project.params [Design]",
+              "RelativeToolTip": "Data Mart\\Project.params [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-07T13:29:38.159Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,

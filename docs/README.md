@@ -1,5 +1,7 @@
 # Tabelas
 
+Este documento descreve as tabelas utilizadas no sistema, incluindo detalhes sobre os campos, tipos de dados e descrições. As tabelas estão divididas por regiões (UK e USA) e incluem informações específicas para cada uma.
+
 ## Costumers UK
 | Campo            | Tipo            | Descrição                                                                 |
 |------------------|-----------------|--------------------------------------------------------------------------|
